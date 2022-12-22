@@ -14,6 +14,7 @@ namespace GITHub1
         public static void Main(string[] args)
         {
             Console.WriteLine("shahbaz");
+            Console.WriteLine( "moiz");
             CreateHostBuilder(args).Build().Run();
         }
 
